@@ -1,6 +1,1 @@
-# hello world                        
-
-        hi world
-
-   Administration
-          
+# hello-world
